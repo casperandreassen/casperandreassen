@@ -5,7 +5,7 @@ Im a informatics students @NTNU with love for building cool and wierd apps. Main
 I'm currently building and maintaining the website for @NTNUISquash 🏓
 Check out [my site](http://csandreassen.no) for contact information.
 
-<center>[![Caspers's GitHub stats](https://github-readme-stats.vercel.app/api?username=casperandreassen&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</center>
+[![Caspers's GitHub stats](https://github-readme-stats.vercel.app/api?username=casperandreassen&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
