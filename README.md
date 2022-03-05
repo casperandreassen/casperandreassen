@@ -4,7 +4,9 @@ Im a informatics students @NTNU with love for building cool and wierd apps. Main
 
 Check out [my site](csandreassen.no) for contact information.
 
-[![Caspers's GitHub stats](https://github-readme-stats.vercel.app/api?username=casperandreassen)](https://github.com/anuraghazra/github-readme-stats)
+[![Caspers's GitHub stats](https://github-readme-stats.vercel.app/api?username=casperandreassen&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casperandreassen&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **casperandreassen/casperandreassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
