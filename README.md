@@ -2,7 +2,7 @@
 
 Im a informatics students @NTNU with love for building cool and wierd apps. Main focus at the moment is learning more about Linux servers and experimenting with deploment of web and backend apps to cloud platforms like Linode.
 
-Check out csandreassen.no for contact information.
+Check out [my site](csandreassen.no) for contact information.
 
 
 <!--
