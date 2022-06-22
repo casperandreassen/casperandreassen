@@ -1,10 +1,4 @@
-### Hi there 👋
 
-Im a informatics students @NTNU with love for building cool and wierd apps. Main focus at the moment is learning more about Linux servers and experimenting with deployment of websites. 
-
-Check out [my site](http://csandreassen.no) for contact information.
-
-[![Caspers's GitHub stats](https://github-readme-stats.vercel.app/api?username=casperandreassen&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
