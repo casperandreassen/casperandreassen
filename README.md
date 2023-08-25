@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+- Currently working on a larger web app.
 - I'm currently studying informatics at NTNU.
-- I'm in charge of IT and web development at NTNUI Squash (ntnuisquash.no)
+- IT and web development at NTNUI Squash (ntnuisquash.no)
