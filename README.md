@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on a larger web app.
-- I'm currently studying informatics at NTNU.
-- IT and web development at NTNUI Squash (ntnuisquash.no)
+- 🎓 MSc in Informatics - Databases and Search @ NTNU
+- 👷🏼 Building fintech applications part time @ Kølner AS
+
+Connect with me at [andreassen.dev](https://andreassen.dev) 
