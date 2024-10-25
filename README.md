@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 MSc in Informatics - Databases and Search @ NTNU
-- 👷🏼 Building fintech applications part time @ Kølner AS
+- 👷🏼 Building fintech applications part time @ Kodeverkstedet AS
 
 Connect with me at [andreassen.dev](https://andreassen.dev) 
