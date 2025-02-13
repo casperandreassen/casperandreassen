@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 🚀 Developer at Norsk Helsenett SF
 
 🔹 Built [Timetable](https://timetable.no) from scratch—a timesheet and expense tracking application for small to medium-sized businesses.
+
 🔹 Created [Lagkasse](https://lagkasse.com), an accounting platform designed for sports clubs in Norway.
 
 🎓 BSc in Informatics from NTNU
