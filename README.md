@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 MSc in Informatics - Databases and Search @ NTNU
-- 👷🏼 Building fintech applications part time @ Kodeverkstedet AS
+- Currently a Developer at Norsk Helsenett SF
+- Built [Timetable](https://timetable.no) from scratch, a timesheet and expense tracking application for small to medium sized businesses.
+- Built [Lagkasse](https://lagkasse.com) from scratch. A accounting platform aimed at sports clubs in Norway.
+- 🎓 BSc in Informatics at NTNU
 
-Connect with me at [andreassen.dev](https://andreassen.dev) 
+
+Connect with me at [salminen.no](https://salminen.no) 
