@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 🎓 BSc in Informatics from NTNU
 
-📬 Connect with me at [salminen.no](https://salminen.no)
